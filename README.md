@@ -33,6 +33,6 @@ This project does not replace the specialist consult (medical, psichological, ps
 
 ## Acknowledgments
 
-* to my stress, Inexhaustible source of ideas
-* to my family and they patience
+* to my stress, inexhaustible source of ideas
+* to my family and their patience
 * to Elements of AI, for the oportunity to learn and refresh concepts
